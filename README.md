@@ -27,10 +27,10 @@ embedded information, surpassing the capabilities of existing techniques.
 获得了最高的嵌入容量.
 
 ## How to cite our paper
-  @article{ JFYZ20230920003,
-    author = { 吕皖丽, 唐运, 殷赵霞 & 罗斌 },
-    title = {基于顶点划分和坐标标准化的密文域3维网格模型可逆信息隐藏},
-    journal = {计算机研究与发展},
-    number = {1-13},
-    issn = {1000-1239},
-  }
+>  @article{ JFYZ20230920003,
+>   author = { 吕皖丽, 唐运, 殷赵霞 & 罗斌 }
+>    title = {基于顶点划分和坐标标准化的密文域3维网格模型可逆信息隐藏},
+>   journal = {计算机研究与发展},
+>   number = {1-13},
+>   issn = {1000-1239},
+> }
